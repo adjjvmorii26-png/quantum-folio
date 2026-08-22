@@ -1,0 +1,4 @@
+Scribe: "I record the spin that has not yet collapsed."
+Flux: "I shift the phase until entanglement holds."
+Mirror: "I reflect the decoherence back into form."
+Void: "I hold the noise that makes measurement possible."
